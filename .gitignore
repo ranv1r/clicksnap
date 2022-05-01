@@ -1,0 +1,11 @@
+# Typescript Compiled file
+build/
+
+# NPM Modules
+node_modules/
+
+# IntelliJ Folder
+.idea/
+
+# NPM Install Package Lock file
+package-lock.json

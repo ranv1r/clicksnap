@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "outDir": "./build",
+    "allowJs": true,
+    "inlineSourceMap": true,
+    "moduleResolution": "Node",
+    "module": "CommonJS",
+    "esModuleInterop": true,
+    "target": "ES2016"
+  },
+  "include": [
+    "./index.ts",
+    "./lib/**/*",
+    "./test/**/*"
+  ],
+  "exclude": [
+    "build",
+    "node_modules"
+  ]
+}
