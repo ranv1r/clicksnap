@@ -1,5 +1,4 @@
 # clicksnap
----
 
 A plugin for Appium 2.0 which could be integrated into the appium server. Once installed, the plugin allows users to take screenshots and page dumps of view hierarchy at every click
 
